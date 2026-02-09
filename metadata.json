@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CampusSafe",
+  "description": "A high-security campus safety application designed for students to report incidents, trigger SOS alerts, and access emergency contacts quickly.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
