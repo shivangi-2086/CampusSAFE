@@ -1,17 +1,56 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🛡️ CampusSAFE
 
-# Run and deploy your AI Studio app
+**Preventive safety for women on campus**
 
-This contains everything you need to run your app locally.
+CampusSAFE is a campus-focused safety and awareness platform designed for women students.  
+It focuses on **prevention, early reporting, and awareness**, not just emergency response.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1f1EU2H2IBS9apfFvCXymMEA7TgHdlD3h
+---
 
-## Run Locally
+## 🚨 The Problem
 
-**Prerequisites:**  Node.js
+Many women on college campuses experience:
+- Being stared at or followed
+- Verbal harassment
+- Unsafe or poorly lit paths
+- Discomfort that doesn’t feel like an “emergency”
 
+Most safety apps only work **after** something serious happens.
+
+---
+
+## 💡 The Solution
+
+CampusSAFE helps women:
+- Report discomfort early
+- Mark unsafe zones on campus
+- Get awareness alerts before situations escalate
+- Feel safer during daily movement (hostels, classes, libraries)
+
+It bridges the gap between **discomfort** and **emergency**.
+
+---
+
+## ✨ Key Features
+
+- 🗺️ Campus safety mapping
+- ⚠️ Early discomfort reporting
+- 🔔 Preventive alerts & awareness
+- 🧑‍🤝‍🧑 Community-driven safety insights
+- 🎓 Designed specifically for campuses
+
+---
+
+## 🧠 Tech Stack
+
+- React / React Native (frontend)
+- TypeScript
+- Firebase (Auth + Database)
+- Google AI Studio (initial template)
+
+
+```
+![CampusSAFE Preview](./assets/preview.png)
 
 1. Install dependencies:
    `npm install`
